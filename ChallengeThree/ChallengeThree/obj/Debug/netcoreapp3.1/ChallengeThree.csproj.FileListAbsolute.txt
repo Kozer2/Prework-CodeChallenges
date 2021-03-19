@@ -1,0 +1,13 @@
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\obj\Debug\netcoreapp3.1\ChallengeThree.csprojAssemblyReference.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\obj\Debug\netcoreapp3.1\ChallengeThree.AssemblyInfoInputs.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\obj\Debug\netcoreapp3.1\ChallengeThree.AssemblyInfo.cs
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\obj\Debug\netcoreapp3.1\ChallengeThree.csproj.CoreCompileInputs.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\bin\Debug\netcoreapp3.1\ChallengeThree.exe
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\bin\Debug\netcoreapp3.1\ChallengeThree.deps.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\bin\Debug\netcoreapp3.1\ChallengeThree.runtimeconfig.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\bin\Debug\netcoreapp3.1\ChallengeThree.runtimeconfig.dev.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\bin\Debug\netcoreapp3.1\ChallengeThree.dll
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\bin\Debug\netcoreapp3.1\ChallengeThree.pdb
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\obj\Debug\netcoreapp3.1\ChallengeThree.dll
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\obj\Debug\netcoreapp3.1\ChallengeThree.pdb
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeThree\ChallengeThree\obj\Debug\netcoreapp3.1\ChallengeThree.genruntimeconfig.cache
