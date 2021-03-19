@@ -1,0 +1,13 @@
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp3.1\ChallengeOne.exe
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp3.1\ChallengeOne.deps.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp3.1\ChallengeOne.runtimeconfig.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp3.1\ChallengeOne.runtimeconfig.dev.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp3.1\ChallengeOne.dll
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\bin\Debug\netcoreapp3.1\ChallengeOne.pdb
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp3.1\ChallengeOne.csprojAssemblyReference.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp3.1\ChallengeOne.AssemblyInfoInputs.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp3.1\ChallengeOne.AssemblyInfo.cs
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp3.1\ChallengeOne.csproj.CoreCompileInputs.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp3.1\ChallengeOne.dll
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp3.1\ChallengeOne.pdb
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\ChallengeOne\ChallengeOne\obj\Debug\netcoreapp3.1\ChallengeOne.genruntimeconfig.cache
