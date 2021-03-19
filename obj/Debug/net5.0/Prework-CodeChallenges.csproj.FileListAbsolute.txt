@@ -1,0 +1,16 @@
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\obj\Debug\net5.0\Prework-CodeChallenges.csprojAssemblyReference.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\obj\Debug\net5.0\Prework-CodeChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\obj\Debug\net5.0\Prework-CodeChallenges.AssemblyInfoInputs.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\obj\Debug\net5.0\Prework-CodeChallenges.AssemblyInfo.cs
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\obj\Debug\net5.0\Prework-CodeChallenges.csproj.CoreCompileInputs.cache
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\bin\Debug\net5.0\Prework-CodeChallenges.exe
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\bin\Debug\net5.0\Prework-CodeChallenges.deps.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\bin\Debug\net5.0\Prework-CodeChallenges.runtimeconfig.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\bin\Debug\net5.0\Prework-CodeChallenges.runtimeconfig.dev.json
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\bin\Debug\net5.0\Prework-CodeChallenges.dll
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\bin\Debug\net5.0\ref\Prework-CodeChallenges.dll
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\bin\Debug\net5.0\Prework-CodeChallenges.pdb
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\obj\Debug\net5.0\Prework-CodeChallenges.dll
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\obj\Debug\net5.0\ref\Prework-CodeChallenges.dll
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\obj\Debug\net5.0\Prework-CodeChallenges.pdb
+C:\Users\benhe\OneDrive\Desktop\DeltaV\401\Prework-CodeChallenges\obj\Debug\net5.0\Prework-CodeChallenges.genruntimeconfig.cache
